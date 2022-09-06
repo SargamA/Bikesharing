@@ -28,11 +28,13 @@ The purpose of this analysis is the review Citi bike data to get an understandin
 
 6. Top Starting Locations
    This map highlights the most popular starting point for bike rental is Manhattan, a hotspot for tourists and commuters alike. 
-   [link to dashboard]( )
+   
+    ![Top Starting Location](https://user-images.githubusercontent.com/102809106/188522014-07c7660e-35e9-4167-b395-6fe6214ad441.png)
+
 
 7. Top Ending Locations 
       This map highlights the most popular ending point for bike rental is also Manhattan, a hotspot for tourists and commuters alike. 
-   [link to dashboard]( )
+    ![Top Ending Location](https://user-images.githubusercontent.com/102809106/188522009-2e43f3db-733e-4c25-80da-cf5ae65b2159.png)
 
 
 
